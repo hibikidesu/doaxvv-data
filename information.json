@@ -1,14 +1,27 @@
 {
   "information_list": [
     {
-      "information_id": 3341,
-      "title": "12/5(\u6708)\u81e8\u6642\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u306e\u304a\u77e5\u3089\u305b",
-      "description": "12/5(\u6708)\u81e8\u6642\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u306e\u304a\u77e5\u3089\u305b",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/b7e9d9bc8a0c3d3a7385dc1d59c06ac71dccee0343f032f81c6db405069e7cb7.html",
-      "category": 2,
-      "publish_at": "2022-12-02 19:00:00",
-      "close_at": "2022-12-05 11:59:59",
+      "information_id": 3343,
+      "title": "\u30c6\u30a3\u30ca\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30c6\u30a3\u30ca\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u30c6\u30a3\u30ca\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30c6\u30a3\u30ca\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/37b33c5146d3a4db7f336f4188f11d02691d52fce94afc52b6ad35beda3ce712.html",
+      "category": 4,
+      "publish_at": "2022-12-06 00:00:00",
+      "close_at": "2022-12-11 17:59:59",
       "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 700
+    },
+    {
+      "information_id": 3342,
+      "title": "12/5\u81e8\u6642\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u5b8c\u4e86\u306e\u304a\u77e5\u3089\u305b",
+      "description": "12/5\u81e8\u6642\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u5b8c\u4e86\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/9ea7f3d5aa8d6ea9d1dea23b422561baf309e9bea2fc7de2c3da03e37b59121f.html",
+      "category": 2,
+      "publish_at": "2022-12-05 15:00:00",
+      "close_at": "2022-12-08 11:59:59",
+      "announce_at": "2022-12-05 16:00:00",
       "read": false,
       "prohibit_popup": false,
       "priority": 9000
