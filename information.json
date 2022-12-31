@@ -1,6 +1,58 @@
 {
   "information_list": [
     {
+      "information_id": 3399,
+      "title": "\u30e2\u30cb\u30ab\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30e2\u30cb\u30ab\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u30e2\u30cb\u30ab\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30e2\u30cb\u30ab\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/106b0e0b3b728ce70ddb894f47a972967f59ee0f5ef9857f829bc3caefb3ea46.html",
+      "category": 4,
+      "publish_at": "2023-01-01 00:00:00",
+      "close_at": "2023-01-06 17:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 900
+    },
+    {
+      "information_id": 3393,
+      "title": "SSR\u78ba\u5b9a\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8(2023\u5e741\u6708\u53f7)\u306b\u95a2\u3059\u308b\u304a\u77e5\u3089\u305b",
+      "description": "SSR\u78ba\u5b9a\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8(2023\u5e741\u6708\u53f7)\u306b\u95a2\u3059\u308b\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/590c359c3b316bd1b394488614328f1d8a6ca2fcea3c1f3a01a8eaf1151d8d57.html",
+      "category": 4,
+      "publish_at": "2023-01-01 00:00:00",
+      "close_at": "2023-01-31 23:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 4000
+    },
+    {
+      "information_id": 3391,
+      "title": "\u300c\u8b39\u8cc0\u65b0\u5e74\uff01\u304a\u6b63\u6708\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u300c\u8b39\u8cc0\u65b0\u5e74\uff01\u304a\u6b63\u6708\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/b54e41dd73ab7548fc41d460c2b4b3460b9bba043409dc258372e29da1acef84.html",
+      "category": 2,
+      "publish_at": "2023-01-01 00:00:00",
+      "close_at": "2023-01-12 11:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 2425
+    },
+    {
+      "information_id": 3390,
+      "title": "\u300c\u632f\u8896\u306a\u3064\u304b\u3057\u30b3\u30fc\u30c7\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u300c\u632f\u8896\u306a\u3064\u304b\u3057\u30b3\u30fc\u30c7\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/7e0a140fa706e24fc127e6560c34c2f078c8a708491b8c4e5748485507e1c09b.html",
+      "category": 4,
+      "publish_at": "2023-01-01 00:00:00",
+      "close_at": "2023-01-12 11:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 2350
+    },
+    {
       "information_id": 3389,
       "title": "\u3010\u91cd\u8981\u3011Windows 8.1\u3000\u30b5\u30dd\u30fc\u30c8\u7d42\u4e86\u306b\u95a2\u3059\u308b\u304a\u77e5\u3089\u305b",
       "description": "\u3010\u91cd\u8981\u3011Windows 8.1\u3000\u30b5\u30dd\u30fc\u30c8\u7d42\u4e86\u306b\u95a2\u3059\u308b\u304a\u77e5\u3089\u305b",
@@ -116,19 +168,6 @@
       "read": false,
       "prohibit_popup": false,
       "priority": 4000
-    },
-    {
-      "information_id": 3315,
-      "title": "\u300cKT App\u300d\u306e\u4eca\u5f8c\u306e\u5bfe\u5fdc\u306b\u3064\u3044\u3066",
-      "description": "\u300cKT App\u300d\u306e\u4eca\u5f8c\u306e\u5bfe\u5fdc\u306b\u3064\u3044\u3066",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/a01cff775c2e78ae629bdc1533f5ea5f0855d3f7009ac75566bf23d8c7cebad6.html",
-      "category": 2,
-      "publish_at": "2022-11-28 20:00:00",
-      "close_at": "2022-12-31 23:59:59",
-      "announce_at": null,
-      "read": false,
-      "prohibit_popup": false,
-      "priority": 9500
     }
   ]
 }
