@@ -1,6 +1,32 @@
 {
   "information_list": [
     {
+      "information_id": 3426,
+      "title": "\u516c\u5f0f\uff14\u30b3\u30de\u30de\u30f3\u30ac\u300c\u3084\u308f\u3089\u304b\uff14\u30b3\u30de\u2606\u30d6\u30a4\u30d6\u30a4\u300d\u7b2c\uff12\uff14\uff13\u56de\u516c\u958b\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u516c\u5f0f\uff14\u30b3\u30de\u30de\u30f3\u30ac\u300c\u3084\u308f\u3089\u304b\uff14\u30b3\u30de\u2606\u30d6\u30a4\u30d6\u30a4\u300d\u7b2c\uff12\uff14\uff13\u56de\u516c\u958b\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/69c803f026c50c6e1f460ea0f043d36d8fdaeb0b4cac24b65b4253beb74fe4a5.html",
+      "category": 2,
+      "publish_at": "2023-01-25 17:00:00",
+      "close_at": "2023-02-08 03:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 9100
+    },
+    {
+      "information_id": 3425,
+      "title": "\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/c08512fe4b9369bc653e6146e7ea2c1865a312644a3589d0f9875b8a51c67758.html",
+      "category": 2,
+      "publish_at": "2023-01-25 17:00:00",
+      "close_at": "2023-01-26 11:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 9000
+    },
+    {
       "information_id": 3423,
       "title": "\u30101/25(\u6c34)21\u6642\uff5e22\u6642\u3011\u7b2c32\u56de\u516c\u5f0f\u751f\u653e\u9001 \u300c\u30aa\u30fc\u30ca\u30fc\u3055\u3093\u5927\u96c6\u5408\uff01\u30f4\u30a3\u30fc\u30ca\u30b9\u3060\u3089\u3051\u306e\u65b0\u6625\u30d1\u30fc\u30c6\u30a3\u30fc\uff01\u300d",
       "description": "\u30101/25(\u6c34)21\u6642\uff5e22\u6642\u3011\u7b2c32\u56de\u516c\u5f0f\u751f\u653e\u9001 \u300c\u30aa\u30fc\u30ca\u30fc\u3055\u3093\u5927\u96c6\u5408\uff01\u30f4\u30a3\u30fc\u30ca\u30b9\u3060\u3089\u3051\u306e\u65b0\u6625\u30d1\u30fc\u30c6\u30a3\u30fc\uff01\u300d",
