@@ -1,6 +1,19 @@
 {
   "information_list": [
     {
+      "information_id": 3453,
+      "title": "\u300cDMM GAMES\u300d\u4eba\u6c17\u30b2\u30fc\u30e0\u30e9\u30f3\u30ad\u30f3\u30b0\uff11\u4f4d\u3092\u7372\u5f97\u3057\u307e\u3057\u305f\uff01",
+      "description": "\u300cDMM GAMES\u300d\u4eba\u6c17\u30b2\u30fc\u30e0\u30e9\u30f3\u30ad\u30f3\u30b0\uff11\u4f4d\u3092\u7372\u5f97\u3057\u307e\u3057\u305f\uff01",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/253fbb27557f21b6085eda7e9cd2f5488f1a1e2ada074f38600ae336f9a6a767.html",
+      "category": 2,
+      "publish_at": "2023-02-03 15:00:00",
+      "close_at": "2023-02-16 23:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 9200
+    },
+    {
       "information_id": 3451,
       "title": "\u300c\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
       "description": "\u300c\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
