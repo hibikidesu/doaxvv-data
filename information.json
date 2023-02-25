@@ -155,19 +155,6 @@
       "read": false,
       "prohibit_popup": false,
       "priority": 4100
-    },
-    {
-      "information_id": 3429,
-      "title": "DOAXVV \u751f\u653e\u9001\u8a18\u5ff5 \u30a2\u30af\u30ea\u30eb\u30dc\u30fc\u30c9\u8ca9\u58f2\u4e2d\uff01",
-      "description": "DOAXVV \u751f\u653e\u9001\u8a18\u5ff5 \u30a2\u30af\u30ea\u30eb\u30dc\u30fc\u30c9\u8ca9\u58f2\u4e2d\uff01",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/301df2fcfa4e298d6f0c3e27e85472c430665875bc2ea13c0fecce0c6751970e.html",
-      "category": 2,
-      "publish_at": "2023-02-24 18:00:00",
-      "close_at": "2023-02-25 23:59:59",
-      "announce_at": null,
-      "read": false,
-      "prohibit_popup": false,
-      "priority": 7000
     }
   ]
 }
