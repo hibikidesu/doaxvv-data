@@ -541,11 +541,6 @@
       "count_drew_gacha_free": 0
     },
     {
-      "gacha_mid": 2164,
-      "now_step": 1,
-      "count_drew_gacha_free": 0
-    },
-    {
       "gacha_mid": 2448,
       "now_step": 1,
       "count_drew_gacha_free": 0
@@ -567,6 +562,11 @@
     },
     {
       "gacha_mid": 2452,
+      "now_step": 1,
+      "count_drew_gacha_free": 0
+    },
+    {
+      "gacha_mid": 2162,
       "now_step": 1,
       "count_drew_gacha_free": 0
     }
