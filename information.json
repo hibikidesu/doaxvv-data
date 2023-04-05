@@ -1,6 +1,19 @@
 {
   "information_list": [
     {
+      "information_id": 3568,
+      "title": "\u516c\u5f0f\uff14\u30b3\u30de\u30de\u30f3\u30ac\u300c\u3084\u308f\u3089\u304b\uff14\u30b3\u30de\u2606\u30d6\u30a4\u30d6\u30a4\u300d\u7b2c\uff12\uff15\uff11\u56de\u516c\u958b\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u516c\u5f0f\uff14\u30b3\u30de\u30de\u30f3\u30ac\u300c\u3084\u308f\u3089\u304b\uff14\u30b3\u30de\u2606\u30d6\u30a4\u30d6\u30a4\u300d\u7b2c\uff12\uff15\uff11\u56de\u516c\u958b\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/9e19986d120e9a40ea1743ce6f431b86d9b6281234c15dc25ddadfb79e0423bb.html",
+      "category": 2,
+      "publish_at": "2023-04-05 20:00:00",
+      "close_at": "2023-04-12 03:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 9100
+    },
+    {
       "information_id": 3567,
       "title": "\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u306e\u304a\u77e5\u3089\u305b",
       "description": "\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u306e\u304a\u77e5\u3089\u305b",
@@ -14,13 +27,13 @@
       "priority": 9000
     },
     {
-      "information_id": 3563,
+      "information_id": 3565,
       "title": "\u3055\u3086\u308a\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u3055\u3086\u308a\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
       "description": "\u3055\u3086\u308a\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u3055\u3086\u308a\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/c1e0ce393a3bde5025b77568e29cbc5f9ac602ea4e5e52fd3dbb4497ffb4758a.html",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/f74a3ec4a135debccb750d7eaea60a0d20200f1ae47dbc14d3e0345e260fd164.html",
       "category": 4,
-      "publish_at": "2023-03-31 00:00:00",
-      "close_at": "2023-04-05 17:59:59",
+      "publish_at": "2023-04-05 18:00:00",
+      "close_at": "2023-04-06 23:59:59",
       "announce_at": null,
       "read": false,
       "prohibit_popup": false,
