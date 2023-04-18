@@ -9,7 +9,7 @@
       "publish_at": "2023-04-14 17:00:00",
       "close_at": "2023-04-27 23:59:59",
       "announce_at": null,
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 9200
     },
@@ -22,7 +22,7 @@
       "publish_at": "2023-04-16 00:00:00",
       "close_at": "2023-04-21 17:59:59",
       "announce_at": null,
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 1000
     },
@@ -35,7 +35,7 @@
       "publish_at": "2023-04-13 14:00:00",
       "close_at": "2023-04-30 23:59:59",
       "announce_at": "2023-04-13 17:00:00",
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 750
     },
@@ -48,7 +48,7 @@
       "publish_at": "2023-04-13 14:00:00",
       "close_at": "2023-04-20 09:59:59",
       "announce_at": "2023-04-13 17:00:00",
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 2400
     },
@@ -61,7 +61,7 @@
       "publish_at": "2023-04-13 14:00:00",
       "close_at": "2023-04-20 09:59:59",
       "announce_at": "2023-04-13 17:00:00",
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 2300
     },
@@ -74,7 +74,7 @@
       "publish_at": "2023-04-13 14:00:00",
       "close_at": "2023-04-20 09:59:59",
       "announce_at": "2023-04-13 17:00:00",
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 2200
     },
@@ -87,7 +87,7 @@
       "publish_at": "2023-04-13 14:00:00",
       "close_at": "2023-04-26 17:59:59",
       "announce_at": "2023-04-13 17:00:00",
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 2100
     },
@@ -100,7 +100,7 @@
       "publish_at": "2023-04-13 14:00:00",
       "close_at": "2023-04-20 09:59:59",
       "announce_at": "2023-04-13 17:00:00",
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 2000
     },
@@ -113,7 +113,7 @@
       "publish_at": "2023-04-12 20:30:00",
       "close_at": "2023-04-19 03:59:59",
       "announce_at": null,
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 9100
     },
@@ -126,7 +126,7 @@
       "publish_at": "2023-04-17 18:00:00",
       "close_at": "2023-04-18 23:59:59",
       "announce_at": null,
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 1000
     },
@@ -139,7 +139,7 @@
       "publish_at": "2023-04-01 00:00:00",
       "close_at": "2023-04-30 23:59:59",
       "announce_at": null,
-      "read": false,
+      "read": true,
       "prohibit_popup": false,
       "priority": 4100
     }
