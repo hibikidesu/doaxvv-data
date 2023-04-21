@@ -92,15 +92,15 @@
       "priority": 9200
     },
     {
-      "information_id": 3597,
+      "information_id": 3599,
       "title": "\u306a\u306a\u307f\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u306a\u306a\u307f\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
       "description": "\u306a\u306a\u307f\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u306a\u306a\u307f\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/bcc2892a7211c8f40b60b0d3c72727c50e4b2ba3b095c175790f029f581dad43.html",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/173bed5de30b81c10fe0b5c1753b3bd64ab8bb9af1a7936718ae0a418fa51c53.html",
       "category": 4,
-      "publish_at": "2023-04-16 00:00:00",
-      "close_at": "2023-04-21 17:59:59",
+      "publish_at": "2023-04-21 18:00:00",
+      "close_at": "2023-04-22 23:59:59",
       "announce_at": null,
-      "read": true,
+      "read": false,
       "prohibit_popup": false,
       "priority": 1000
     },
