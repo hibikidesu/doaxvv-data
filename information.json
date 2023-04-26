@@ -1,6 +1,19 @@
 {
   "information_list": [
     {
+      "information_id": 3614,
+      "title": "\u3010\u91cd\u8981\u3011\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u304a\u3088\u3073Twitter\u9023\u643a\u6a5f\u80fd\u505c\u6b62\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u3010\u91cd\u8981\u3011\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u304a\u3088\u3073Twitter\u9023\u643a\u6a5f\u80fd\u505c\u6b62\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/cc9df7e3a34cc5788133f4f88a8460b2fe0a418bcd91860557028f83a4acf358.html",
+      "category": 2,
+      "publish_at": "2023-04-26 17:00:00",
+      "close_at": "2023-04-27 11:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 9000
+    },
+    {
       "information_id": 3610,
       "title": "\u30ec\u30a4\u30d5\u30a1\u30f3\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30ec\u30a4\u30d5\u30a1\u30f3\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
       "description": "\u30ec\u30a4\u30d5\u30a1\u30f3\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30ec\u30a4\u30d5\u30a1\u30f3\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
@@ -118,15 +131,15 @@
       "priority": 2400
     },
     {
-      "information_id": 3590,
+      "information_id": 3591,
       "title": "\u300c\u30b9\u30bf\u30fc\u30b3\u30fc\u30c7\u30ac\u30c1\u30e3(\u3086\u304d\u306e)\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
       "description": "\u300c\u30b9\u30bf\u30fc\u30b3\u30fc\u30c7\u30ac\u30c1\u30e3(\u3086\u304d\u306e)\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/808ac06b2ff4ac573e1310931bcf6722e5f7ab3a4074769f17860e41675ba19e.html",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/5ab714615a2b5533eca391e828fa588f53ce9dcc8df1f356a12d6dad854958bd.html",
       "category": 4,
-      "publish_at": "2023-04-13 14:00:00",
-      "close_at": "2023-04-26 17:59:59",
-      "announce_at": "2023-04-13 17:00:00",
-      "read": true,
+      "publish_at": "2023-04-26 18:00:00",
+      "close_at": "2023-04-27 11:59:59",
+      "announce_at": null,
+      "read": false,
       "prohibit_popup": false,
       "priority": 2100
     },
