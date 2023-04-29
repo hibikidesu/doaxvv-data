@@ -1,6 +1,19 @@
 {
   "information_list": [
     {
+      "information_id": 3630,
+      "title": "\u30d1\u30c6\u30a3\u767b\u58343\u5468\u5e74\u8a18\u5ff5\uff01\u300c\u30f4\u30a3\u30f3\u30c6\u30fc\u30b8\u30b3\u30fc\u30c7\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u30d1\u30c6\u30a3\u767b\u58343\u5468\u5e74\u8a18\u5ff5\uff01\u300c\u30f4\u30a3\u30f3\u30c6\u30fc\u30b8\u30b3\u30fc\u30c7\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/33daa25ff8053c713af7e030e3a4aa3541784aabba531ab95c1c384399b792fe.html",
+      "category": 4,
+      "publish_at": "2023-04-30 00:00:00",
+      "close_at": "2023-05-05 17:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 1100
+    },
+    {
       "information_id": 3623,
       "title": "\u3010\u91cd\u8981\u3011Twitter\u9023\u643a\u306b\u3088\u308b\u300cTwitter\u6295\u7a3f\u300d\u6a5f\u80fd\u306b\u3064\u3044\u3066",
       "description": "\u3010\u91cd\u8981\u3011Twitter\u9023\u643a\u306b\u3088\u308b\u300cTwitter\u6295\u7a3f\u300d\u6a5f\u80fd\u306b\u3064\u3044\u3066",
@@ -103,19 +116,6 @@
       "read": false,
       "prohibit_popup": false,
       "priority": 9100
-    },
-    {
-      "information_id": 3612,
-      "title": "\u30ec\u30a4\u30d5\u30a1\u30f3\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30ec\u30a4\u30d5\u30a1\u30f3\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "description": "\u30ec\u30a4\u30d5\u30a1\u30f3\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30ec\u30a4\u30d5\u30a1\u30f3\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/fea3ad00b75bef09a3850bfa34047a541377d03d77fd40077012058f387ca494.html",
-      "category": 4,
-      "publish_at": "2023-04-28 18:00:00",
-      "close_at": "2023-04-29 23:59:59",
-      "announce_at": null,
-      "read": false,
-      "prohibit_popup": false,
-      "priority": 1000
     },
     {
       "information_id": 3609,

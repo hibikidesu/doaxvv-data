@@ -546,21 +546,6 @@
       "count_drew_gacha_free": 0
     },
     {
-      "gacha_mid": 2511,
-      "now_step": 1,
-      "count_drew_gacha_free": 0
-    },
-    {
-      "gacha_mid": 2512,
-      "now_step": 1,
-      "count_drew_gacha_free": 0
-    },
-    {
-      "gacha_mid": 2513,
-      "now_step": 1,
-      "count_drew_gacha_free": 0
-    },
-    {
       "gacha_mid": 2162,
       "now_step": 1,
       "count_drew_gacha_free": 0
@@ -587,6 +572,16 @@
     },
     {
       "gacha_mid": 2534,
+      "now_step": 1,
+      "count_drew_gacha_free": 0
+    },
+    {
+      "gacha_mid": 2530,
+      "now_step": 1,
+      "count_drew_gacha_free": 0
+    },
+    {
+      "gacha_mid": 2531,
       "now_step": 1,
       "count_drew_gacha_free": 0
     }
