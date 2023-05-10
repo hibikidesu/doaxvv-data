@@ -1,6 +1,19 @@
 {
   "information_list": [
     {
+      "information_id": 3639,
+      "title": "\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u306e\u304a\u77e5\u3089\u305b",
+      "description": "\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u306e\u304a\u77e5\u3089\u305b",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/3533d2c7cd41e42f27e9a9f9c6734c54f24e8801bae63577be5012f4517c96e0.html",
+      "category": 2,
+      "publish_at": "2023-05-10 17:00:00",
+      "close_at": "2023-05-11 11:59:59",
+      "announce_at": null,
+      "read": false,
+      "prohibit_popup": false,
+      "priority": 9000
+    },
+    {
       "information_id": 3638,
       "title": "\u300cDMM GAMES\u300d\u4eba\u6c17\u30b2\u30fc\u30e0\u30e9\u30f3\u30ad\u30f3\u30b0\uff11\u4f4d\u3092\u7372\u5f97\u3057\u307e\u3057\u305f\uff01",
       "description": "\u300cDMM GAMES\u300d\u4eba\u6c17\u30b2\u30fc\u30e0\u30e9\u30f3\u30ad\u30f3\u30b0\uff11\u4f4d\u3092\u7372\u5f97\u3057\u307e\u3057\u305f\uff01",
@@ -14,13 +27,13 @@
       "priority": 9200
     },
     {
-      "information_id": 3634,
+      "information_id": 3636,
       "title": "\u306a\u304e\u3055\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u306a\u304e\u3055\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
       "description": "\u306a\u304e\u3055\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u306a\u304e\u3055\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/048aa81916846296953abc7c467d4efc6f24649c937233071366384dae9e2a5e.html",
+      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/40196793db7bfb5e5e00a83d6d123bb06cc4358ea94031471b0c478df4e4dca4.html",
       "category": 4,
-      "publish_at": "2023-05-05 00:00:00",
-      "close_at": "2023-05-10 17:59:59",
+      "publish_at": "2023-05-10 18:00:00",
+      "close_at": "2023-05-11 23:59:59",
       "announce_at": null,
       "read": false,
       "prohibit_popup": false,
