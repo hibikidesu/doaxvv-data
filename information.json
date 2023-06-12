@@ -40,19 +40,6 @@
       "priority": 2200
     },
     {
-      "information_id": 3695,
-      "title": "\u300c\u304a\u5973\u795e\u3055\u307e\u3001\u3054\u6a5f\u5acc\u3088\u3046\u266a\uff5e\u30ad\u30ba\u30ca\u30d5\u30a7\u30b9\u7de8\uff5e\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "description": "\u300c\u304a\u5973\u795e\u3055\u307e\u3001\u3054\u6a5f\u5acc\u3088\u3046\u266a\uff5e\u30ad\u30ba\u30ca\u30d5\u30a7\u30b9\u7de8\uff5e\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/59e941f14e4fde74396ab1732f9622baa177a168d8b827631c5461fd8cbc52ff.html",
-      "category": 3,
-      "publish_at": "2023-06-08 12:00:00",
-      "close_at": "2023-06-12 23:59:59",
-      "announce_at": "2023-06-08 17:00:00",
-      "read": false,
-      "prohibit_popup": false,
-      "priority": 2100
-    },
-    {
       "information_id": 3694,
       "title": "6/8\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u5b8c\u4e86\u306e\u304a\u77e5\u3089\u305b",
       "description": "6/8\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u5b8c\u4e86\u306e\u304a\u77e5\u3089\u305b",
@@ -90,19 +77,6 @@
       "read": false,
       "prohibit_popup": false,
       "priority": 1100
-    },
-    {
-      "information_id": 3689,
-      "title": "\u30de\u30ea\u30fc\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30de\u30ea\u30fc\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "description": "\u30de\u30ea\u30fc\u5c02\u7528\u300c\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u30b3\u30fc\u30c7\u300d\u767b\u5834\uff01\u300c\u30de\u30ea\u30fc\u8a95\u751f\u65e5\u30ac\u30c1\u30e3\u300d\u958b\u50ac\u306e\u304a\u77e5\u3089\u305b",
-      "html_page_url": "https://cdn01.doax-venusvacation.jp/production/html/information/f641fb03ee9af028ac97288f479b8b7aeea80d7630826853e914ad8da51df74f.html",
-      "category": 4,
-      "publish_at": "2023-06-11 18:00:00",
-      "close_at": "2023-06-12 23:59:59",
-      "announce_at": null,
-      "read": false,
-      "prohibit_popup": false,
-      "priority": 1000
     },
     {
       "information_id": 3678,
